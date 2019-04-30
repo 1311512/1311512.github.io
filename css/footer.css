@@ -1,0 +1,8 @@
+footer{
+  padding-left: 20px;
+  padding-right: 20px;
+  position: sticky;
+  position:fixed bottom;
+  bottom: 0px;
+  background-image:radial-gradient(yellow, lightblue, yellow);
+}
